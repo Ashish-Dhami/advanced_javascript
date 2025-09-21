@@ -4,7 +4,7 @@
   "type": "module",
   "main": "./src/node.js",
   "scripts": {
-    "start": "nodemon src/Web_Dev_practice/P1/W2/D6/main.js"
+    "start": "nodemon src/Web_Dev_practice/P1/W2/D7/main.js"
   },
   "keywords": [],
   "author": "",
