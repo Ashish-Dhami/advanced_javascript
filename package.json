@@ -4,7 +4,8 @@
   "type": "module",
   "main": "./src/node.js",
   "scripts": {
-    "start": "nodemon src/Web_Dev_practice/P1/W2/D7/main.js"
+    "start": "nodemon src/Web_Dev_practice/P1/W3/D1/main.js",
+    "dev": "live-server --no-browser src/interview/"
   },
   "keywords": [],
   "author": "",
@@ -23,6 +24,7 @@
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^5.2.0",
     "globals": "^16.3.0",
+    "live-server": "^1.2.2",
     "nodemon": "^3.1.9",
     "prettier": "^3.6.2"
   }
