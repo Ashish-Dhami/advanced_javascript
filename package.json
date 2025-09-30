@@ -4,7 +4,7 @@
   "type": "module",
   "main": "./src/node.js",
   "scripts": {
-    "start": "nodemon src/Web_Dev_practice/P1/W3/D3/main.js",
+    "start": "nodemon src/Web_Dev_practice/P1/W3/D4/main.js",
     "dev": "live-server --no-browser src/interview/"
   },
   "keywords": [],
